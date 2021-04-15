@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nathanael-bayle
 - 👀 I’m interested in software architecture and software engineering
 - 🌱 I’m currently studing at the Universitetet i Bergen
-- 💞️ I’m want to do master degree in software architecture
+- 💞️ I want to do a master degree in software architecture
 - 📫 You can reach me by e-mail at nathanael.bayle0@gmail.com
 
 <!---
