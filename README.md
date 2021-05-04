@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nathanael-bayle
+- 👋 Hi, I’m Nathanael Bayle
 - 👀 I’m interested in software architecture and software engineering
 - 🌱 I’m currently studing at the Universitetet i Bergen
 - 💞️ I want to do a master degree in software architecture
