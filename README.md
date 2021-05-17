@@ -17,7 +17,7 @@
 <a href="https://twitter.com/nathanaelbayle" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/2525/2525779.png?token=exp=1621245743~hmac=1afcb40051fb91a4367e6edf5bf5ade7" alt="nathanaelbayle" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/nathanael-bayle" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/1400/1400486.png?token=exp=1621245771~hmac=f56985acc0962177a3a59913fedcc105" alt="nathanael-bayle" height="30" width="30" /></a>
 <a href="https://instagram.com/nathanael_bayle" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/1400/1400487.png?token=exp=1621245733~hmac=cec1a9f73be8a829de62ff9d746d1fd0" alt="nathanael_bayle" height="30" width="30" /></a>
-<a href="facebook.com/bayle.nathanael" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/1400/1400477.png?token=exp=1621245784~hmac=ce224c0655a8801f53f4b96b032032fa" alt="bayle.nathanael" height="30" width="30" /></a>
+<a href="https://www.facebook.com/bayle.nathanael/" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/1400/1400477.png?token=exp=1621245784~hmac=ce224c0655a8801f53f4b96b032032fa" alt="bayle.nathanael" height="30" width="30" /></a>
 </p>
 
 
