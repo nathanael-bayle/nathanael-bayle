@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects will be available at [nathanaelbayle.github.io](nathanaelbayle.github.io)
 
-- 📫 How to reach me at **nathanael.bayle0@gmail.com**
+- 📫 Reach me at **nathanael.bayle0@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
