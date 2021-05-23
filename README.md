@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning at **the Universitetet i Bergen**
 
-- 👨‍💻 All of my projects will be available at [nathanaelbayle.github.io](nathanaelbayle.github.io)
+- 👨‍💻 All of my projects will be available at [nathanaelbayle.github.io](www.nathanaelbayle.github.io)
 
 - 📫 Reach me at **nathanael.bayle0@gmail.com**
 
