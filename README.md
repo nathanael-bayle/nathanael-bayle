@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nathanaelbayle" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/2525/2525779.png?token=exp=1621245743~hmac=1afcb40051fb91a4367e6edf5bf5ade7" alt="nathanaelbayle" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/nathanael-bayle" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/1400/1400486.png?token=exp=1621245771~hmac=f56985acc0962177a3a59913fedcc105" alt="nathanael-bayle" height="30" width="30" /></a>
+<a href="https://twitter.com/nathanaelbayle" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="nathanaelbayle" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/nathanael-bayle" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="nathanael-bayle" height="30" width="30" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
