@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in **software architecture and software engineering**
 
-- 🌱 I’m currently learning at **the Universitetet i Bergen**
+- 🌱 I’m currently studying at **Université La Rochelle**
 
 - 👨‍💻 All of my projects are available at [nathanaelbayle.github.io](https://nathanaelbayle.github.io/)
 
