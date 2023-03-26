@@ -3,7 +3,7 @@
 
 &nbsp;
 
-- 👀 I’m interested in **blockchain** and **cryptos**
+- 👀 I’m interested in **blockchain** and **AI**
 
 - 🌱 I’m currently working at [CleverConnect](https://www.cleverconnect.com) in **La Rochelle**
 
